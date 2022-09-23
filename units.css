@@ -1,35 +1,35 @@
-#one {
-    background-color: aquamarine;
-    width:100px;
+h1{
+    color: darkgoldenrod;
+    font-size: 8vw;
 }
 
-#two {
-    background-color: red;
-    height: 100px;
-    border: 5px solid black;
+html{
+    background-color:antiquewhite;
+    font-size: 12px;
+    text-align: center;
 }
 
-#three {
-    background-color: blue;
-    height: 100px;
-    border: 5px solid black;
+body{
+    font-size: 12px;
 }
 
-#four {
-    background-color: pink;
-    height: 100px;
-    border: 5px solid black;
+h2{
+    color:darkred;
+    height: 10vh;
+    background-color:bisque;
+    font-size: 300%;
 }
 
-#five {
-    background-color: green;
-    height: 100px;
-    border: 5px solid black;
-    
+p{
+    font-size: 20px;
+    line-height: 2em;
 }
 
-#six {
-    background-color: purple;
-    height: 100px;
-    border: 5px solid black;
+#spring, #summer, #winter, #fall{
+    font-size: 2rem;
+    font-style: italic;
+    color: burlywood;
 }
+
+
+
